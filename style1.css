@@ -49,6 +49,10 @@ a:hover {
   color: #95c5fd;
 }
 
+.social-media-icons {
+  letter-spacing: 10px;
+}
+
 .main-row {
   display: flex;
   justify-content: center;
