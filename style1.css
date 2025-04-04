@@ -54,8 +54,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  gap: 5rem;
-  padding: 0 40px;
+  gap: 8rem;
   flex-wrap: wrap;
 }
 
@@ -67,7 +66,6 @@ a:hover {
   font-size: 2rem;
   margin-bottom: 25px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-  padding-bottom: 8px;
 }
 
 .features ul {
