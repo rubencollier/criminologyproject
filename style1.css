@@ -49,11 +49,6 @@ a:hover {
   color: #95c5fd;
 }
 
-a:focus {
-  outline: 2px dashed #95c5fd;
-  outline-offset: 4px;
-}
-
 .main-row {
   display: flex;
   justify-content: center;
