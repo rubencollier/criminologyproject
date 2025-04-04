@@ -1,0 +1,7 @@
+body {
+  background-color: #041234;
+  font-family: "Inter";
+  color: #ffffff;
+  user-select: none;
+  overflow: hidden;
+}
