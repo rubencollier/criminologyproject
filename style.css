@@ -18,17 +18,17 @@ h1 {
 }
 
 h2 {
+  color: #d1d5db;
   font-size: 1.2rem;
   font-weight: 400;
   letter-spacing: -0.025em;
-  color: #d1d5db;
   margin-bottom: 2rem;
 }
 
 h3 {
+  color: #e0e0e0;
   font-size: 1.1rem;
   margin-bottom: 5px;
-  color: #e0e0e0;
 }
 
 p {
@@ -94,8 +94,8 @@ a:hover {
 }
 
 .features p {
-  font-size: 1rem;
   color: #b0b0b0;
+  font-size: 1rem;
   line-height: 1.5;
   margin: 4px 0;
 }
